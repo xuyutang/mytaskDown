@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/winetone/!svn/ver/24992/trunk/telecom/iOS/BaiduMapAPI_Base.framework/Headers
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/winetone/!svn/ver/24992/trunk/telecom/iOS/BaiduMapAPI_Base.framework/Headers/BMKTypes.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/winetone/!svn/ver/24992/trunk/telecom/iOS/BaiduMapAPI_Base.framework/Headers/BMKVersion.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/winetone/!svn/ver/24992/trunk/telecom/iOS/BaiduMapAPI_Base.framework/Headers/BMKUserLocation.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/winetone/!svn/ver/24992/trunk/telecom/iOS/BaiduMapAPI_Base.framework/Headers/BMKGeneralDelegate.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/winetone/!svn/ver/24992/trunk/telecom/iOS/BaiduMapAPI_Base.framework/Headers/BMKMapManager.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repo/winetone/!svn/ver/24992/trunk/telecom/iOS/BaiduMapAPI_Base.framework/Headers/BMKBaseComponent.h
+END
