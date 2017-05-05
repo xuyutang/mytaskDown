@@ -64,8 +64,6 @@
     [lab5 release];
     
     [self loadTableView];
-
-    // Do any additional setup after loading the view.
 }
 
 -(void)loadTableView {
